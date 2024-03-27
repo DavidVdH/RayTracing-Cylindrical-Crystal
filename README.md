@@ -1,4 +1,4 @@
-Ray-tracing software (written in matlab) used to simulate the effect of reabsorption of emission light by trapped charges in cylindrical SrAl2O4:Eu,Dy single crystals.
+Ray-tracing software (written in matlab) used to simulate the effect of reabsorption of emission light by trapped charges on the afterglow of cylindrical SrAl2O4:Eu,Dy single crystals.
 
 **The following sample-specific properties can be changed:**
 - the degree of reabsorption (effectStrength),
